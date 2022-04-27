@@ -1,0 +1,111 @@
+2022-04-27 20:20:37,281 INFO [root] [__init__.py(<module>:5)] - info
+2022-04-27 20:20:37,283 ERROR [root] [__init__.py(<module>:6)] - error
+2022-04-27 20:21:14,382 INFO [root] [__init__.py(<module>:5)] - info
+2022-04-27 20:21:14,382 ERROR [root] [__init__.py(<module>:6)] - error
+2022-04-27 20:21:19,441 INFO [root] [__init__.py(<module>:5)] - info
+2022-04-27 20:21:19,441 ERROR [root] [__init__.py(<module>:6)] - error
+2022-04-27 20:22:35,876 INFO [root] [__init__.py(<module>:5)] - info
+2022-04-27 20:22:35,876 ERROR [root] [__init__.py(<module>:6)] - error
+2022-04-27 20:25:27,451 INFO [root] [__init__.py(<module>:5)] - info
+2022-04-27 20:25:27,451 ERROR [root] [__init__.py(<module>:6)] - error
+2022-04-27 20:27:04,290 INFO [root] [__init__.py(<module>:5)] - info
+2022-04-27 20:27:04,295 ERROR [root] [__init__.py(<module>:6)] - error
+2022-04-27 20:29:24,953 INFO [root] [__init__.py(<module>:5)] - info
+2022-04-27 20:29:24,953 ERROR [root] [__init__.py(<module>:6)] - error
+2022-04-27 20:29:40,763 INFO [root] [__init__.py(<module>:5)] - info
+2022-04-27 20:29:40,763 ERROR [root] [__init__.py(<module>:6)] - error
+2022-04-27 20:30:12,669 INFO [root] [__init__.py(<module>:5)] - info
+2022-04-27 20:30:12,669 ERROR [root] [__init__.py(<module>:6)] - error
+2022-04-27 20:30:13,348 INFO [root] [login_param.py(test01_get_img_verify_code:41)] - r = 0.8842661274512583 response = <Response [200]>
+2022-04-27 20:30:13,551 INFO [root] [login_param.py(test01_get_img_verify_code:41)] - r = 77856209 response = <Response [200]>
+2022-04-27 20:30:13,789 INFO [root] [login_param.py(test01_get_img_verify_code:41)] - r =  response = <Response [404]>
+2022-04-27 20:30:14,066 INFO [root] [login_param.py(test01_get_img_verify_code:41)] - r = bkfcjdad response = <Response [400]>
+2022-04-27 20:32:58,061 INFO [root] [__init__.py(<module>:5)] - info
+2022-04-27 20:32:58,061 ERROR [root] [__init__.py(<module>:6)] - error
+2022-04-27 20:32:58,308 INFO [root] [login_param.py(test01_get_img_verify_code:41)] - r = 0.3487343100609218 response = <Response [200]>
+2022-04-27 20:32:58,563 INFO [root] [login_param.py(test01_get_img_verify_code:41)] - r = 55612614 response = <Response [200]>
+2022-04-27 20:32:58,753 INFO [root] [login_param.py(test01_get_img_verify_code:41)] - r =  response = <Response [404]>
+2022-04-27 20:32:58,986 INFO [root] [login_param.py(test01_get_img_verify_code:41)] - r = cfhidbke response = <Response [400]>
+2022-04-27 20:32:59,369 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:32:59,833 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:33:00,400 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:33:00,801 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:33:01,112 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 100, 'description': '图片验证码错误'}
+2022-04-27 20:33:01,485 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:33:01,863 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:34:21,684 INFO [root] [__init__.py(<module>:5)] - info
+2022-04-27 20:34:21,685 ERROR [root] [__init__.py(<module>:6)] - error
+2022-04-27 20:34:21,993 INFO [root] [login_param.py(test01_get_img_verify_code:41)] - r = 0.10500337343783905 response = <Response [200]>
+2022-04-27 20:34:22,269 INFO [root] [login_param.py(test01_get_img_verify_code:41)] - r = 70025331 response = <Response [200]>
+2022-04-27 20:34:22,510 INFO [root] [login_param.py(test01_get_img_verify_code:41)] - r =  response = <Response [404]>
+2022-04-27 20:34:22,754 INFO [root] [login_param.py(test01_get_img_verify_code:41)] - r = lddcabjf response = <Response [400]>
+2022-04-27 20:34:23,120 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:34:23,232 INFO [root] [login_param.py(test02_register:57)] - register response = {'status': 100, 'description': '手机已存在!'}
+2022-04-27 20:34:23,600 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:34:23,826 INFO [root] [login_param.py(test02_register:57)] - register response = {'status': 200, 'data': {'isLogin': '1'}, 'description': '注册成功'}
+2022-04-27 20:34:24,326 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:34:24,438 INFO [root] [login_param.py(test02_register:57)] - register response = {'status': 100, 'description': '手机已存在!'}
+2022-04-27 20:34:24,783 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:34:25,320 INFO [root] [login_param.py(test02_register:57)] - register response = {'status': 200, 'data': {'isLogin': '1'}, 'description': '注册成功'}
+2022-04-27 20:34:25,608 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 100, 'description': '图片验证码错误'}
+2022-04-27 20:34:25,966 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:34:26,053 INFO [root] [login_param.py(test02_register:57)] - register response = {'status': 100, 'description': '验证码错误'}
+2022-04-27 20:34:26,321 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:34:26,437 INFO [root] [login_param.py(test02_register:57)] - register response = {'status': 100, 'description': '手机已存在!'}
+2022-04-27 20:35:38,194 INFO [root] [__init__.py(<module>:5)] - info
+2022-04-27 20:35:38,194 ERROR [root] [__init__.py(<module>:6)] - error
+2022-04-27 20:35:38,440 INFO [root] [login_param.py(test01_get_img_verify_code:41)] - r = 0.08512758490333294 response = <Response [200]>
+2022-04-27 20:35:38,663 INFO [root] [login_param.py(test01_get_img_verify_code:41)] - r = 80072605 response = <Response [200]>
+2022-04-27 20:35:38,834 INFO [root] [login_param.py(test01_get_img_verify_code:41)] - r =  response = <Response [404]>
+2022-04-27 20:35:39,042 INFO [root] [login_param.py(test01_get_img_verify_code:41)] - r = dmclajkd response = <Response [400]>
+2022-04-27 20:35:39,403 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:35:39,624 INFO [root] [login_param.py(test02_register:57)] - register response = {'status': 200, 'data': {'isLogin': '1'}, 'description': '注册成功'}
+2022-04-27 20:35:39,992 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:35:40,116 INFO [root] [login_param.py(test02_register:57)] - register response = {'status': 100, 'description': '手机已存在!'}
+2022-04-27 20:35:40,440 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:35:40,555 INFO [root] [login_param.py(test02_register:57)] - register response = {'status': 100, 'description': '手机已存在!'}
+2022-04-27 20:35:40,943 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:35:41,196 INFO [root] [login_param.py(test02_register:57)] - register response = {'status': 200, 'data': {'isLogin': '1'}, 'description': '注册成功'}
+2022-04-27 20:35:41,519 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 100, 'description': '图片验证码错误'}
+2022-04-27 20:35:41,921 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:35:42,080 INFO [root] [login_param.py(test02_register:57)] - register response = {'status': 100, 'description': '验证码错误'}
+2022-04-27 20:35:42,439 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:35:42,663 INFO [root] [login_param.py(test02_register:57)] - register response = {'status': 200, 'data': {'isLogin': '1'}, 'description': '注册成功'}
+2022-04-27 20:38:07,023 INFO [root] [__init__.py(<module>:5)] - info
+2022-04-27 20:38:07,023 ERROR [root] [__init__.py(<module>:6)] - error
+2022-04-27 20:38:07,323 INFO [root] [login_param.py(test01_get_img_verify_code:41)] - r = 0.9002418155185695 response = <Response [200]>
+2022-04-27 20:38:07,543 INFO [root] [login_param.py(test01_get_img_verify_code:41)] - r = 57147010 response = <Response [200]>
+2022-04-27 20:38:07,753 INFO [root] [login_param.py(test01_get_img_verify_code:41)] - r =  response = <Response [404]>
+2022-04-27 20:38:07,991 INFO [root] [login_param.py(test01_get_img_verify_code:41)] - r = cdjlnefd response = <Response [400]>
+2022-04-27 20:38:08,395 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:38:08,561 INFO [root] [login_param.py(test02_register:57)] - register response = {'status': 100, 'description': '手机已存在!'}
+2022-04-27 20:38:08,921 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:38:09,029 INFO [root] [login_param.py(test02_register:57)] - register response = {'status': 100, 'description': '手机已存在!'}
+2022-04-27 20:38:09,320 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:38:09,429 INFO [root] [login_param.py(test02_register:57)] - register response = {'status': 100, 'description': '手机已存在!'}
+2022-04-27 20:38:09,782 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:38:09,880 INFO [root] [login_param.py(test02_register:57)] - register response = {'status': 100, 'description': '手机已存在!'}
+2022-04-27 20:38:10,217 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 100, 'description': '图片验证码错误'}
+2022-04-27 20:38:10,709 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:38:10,820 INFO [root] [login_param.py(test02_register:57)] - register response = {'status': 100, 'description': '验证码错误'}
+2022-04-27 20:38:11,184 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:38:11,310 INFO [root] [login_param.py(test02_register:57)] - register response = {'status': 100, 'description': '手机已存在!'}
+2022-04-27 20:38:49,242 INFO [root] [__init__.py(<module>:5)] - info
+2022-04-27 20:38:49,242 ERROR [root] [__init__.py(<module>:6)] - error
+2022-04-27 20:38:49,532 INFO [root] [login_param.py(test01_get_img_verify_code:41)] - r = 0.7147635763712342 response = <Response [200]>
+2022-04-27 20:38:50,017 INFO [root] [login_param.py(test01_get_img_verify_code:41)] - r = 54027622 response = <Response [200]>
+2022-04-27 20:38:50,291 INFO [root] [login_param.py(test01_get_img_verify_code:41)] - r =  response = <Response [404]>
+2022-04-27 20:38:50,505 INFO [root] [login_param.py(test01_get_img_verify_code:41)] - r = kndedhic response = <Response [400]>
+2022-04-27 20:38:50,841 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:38:51,063 INFO [root] [login_param.py(test02_register:57)] - register response = {'status': 200, 'data': {'isLogin': '1'}, 'description': '注册成功'}
+2022-04-27 20:38:51,482 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:38:51,712 INFO [root] [login_param.py(test02_register:57)] - register response = {'status': 200, 'data': {'isLogin': '1'}, 'description': '注册成功'}
+2022-04-27 20:38:52,041 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:38:52,472 INFO [root] [login_param.py(test02_register:57)] - register response = {'status': 100, 'description': '手机已存在!'}
+2022-04-27 20:38:52,999 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:38:53,181 INFO [root] [login_param.py(test02_register:57)] - register response = {'status': 200, 'data': {'isLogin': '1'}, 'description': '注册成功'}
+2022-04-27 20:38:53,503 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 100, 'description': '图片验证码错误'}
+2022-04-27 20:38:53,841 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:38:53,946 INFO [root] [login_param.py(test02_register:57)] - register response = {'status': 100, 'description': '验证码错误'}
+2022-04-27 20:38:54,343 INFO [root] [login_param.py(test02_register:53)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 20:38:54,584 INFO [root] [login_param.py(test02_register:57)] - register response = {'status': 200, 'data': {'isLogin': '1'}, 'description': '注册成功'}

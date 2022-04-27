@@ -1,0 +1,54 @@
+2022-04-27 22:00:08,578 INFO [root] [__init__.py(<module>:5)] - info
+2022-04-27 22:00:08,580 ERROR [root] [__init__.py(<module>:6)] - error
+2022-04-27 22:01:37,702 INFO [root] [__init__.py(<module>:5)] - info
+2022-04-27 22:01:37,702 ERROR [root] [__init__.py(<module>:6)] - error
+2022-04-27 22:02:01,465 INFO [root] [__init__.py(<module>:5)] - info
+2022-04-27 22:02:01,465 ERROR [root] [__init__.py(<module>:6)] - error
+2022-04-27 22:03:09,539 INFO [root] [__init__.py(<module>:5)] - info
+2022-04-27 22:03:09,539 ERROR [root] [__init__.py(<module>:6)] - error
+2022-04-27 22:04:42,708 INFO [root] [__init__.py(<module>:5)] - info
+2022-04-27 22:04:42,708 ERROR [root] [__init__.py(<module>:6)] - error
+2022-04-27 22:06:41,888 INFO [root] [__init__.py(<module>:5)] - info
+2022-04-27 22:06:41,888 ERROR [root] [__init__.py(<module>:6)] - error
+2022-04-27 22:07:05,062 INFO [root] [__init__.py(<module>:5)] - info
+2022-04-27 22:07:05,062 ERROR [root] [__init__.py(<module>:6)] - error
+2022-04-27 22:10:04,238 INFO [root] [__init__.py(<module>:5)] - info
+2022-04-27 22:10:04,239 ERROR [root] [__init__.py(<module>:6)] - error
+2022-04-27 22:10:04,665 INFO [root] [login_param.py(test01_get_img_verify_code:42)] - r = 0.47621579365677413 response = <Response [200]>
+2022-04-27 22:10:04,877 INFO [root] [login_param.py(test01_get_img_verify_code:42)] - r = 75597309 response = <Response [200]>
+2022-04-27 22:10:05,043 INFO [root] [login_param.py(test01_get_img_verify_code:42)] - r =  response = <Response [404]>
+2022-04-27 22:10:05,243 INFO [root] [login_param.py(test01_get_img_verify_code:42)] - r = afbjkmlc response = <Response [400]>
+2022-04-27 22:10:05,586 INFO [root] [login_param.py(test02_register:55)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 22:10:05,682 INFO [root] [login_param.py(test02_register:59)] - register response = {'status': 100, 'description': '验证码不能为空!'}
+2022-04-27 22:10:06,059 INFO [root] [login_param.py(test02_register:55)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 22:10:06,184 INFO [root] [login_param.py(test02_register:59)] - register response = {'status': 100, 'description': '验证码不能为空!'}
+2022-04-27 22:10:06,519 INFO [root] [login_param.py(test02_register:55)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 22:10:06,649 INFO [root] [login_param.py(test02_register:59)] - register response = {'status': 100, 'description': '验证码不能为空!'}
+2022-04-27 22:10:07,000 INFO [root] [login_param.py(test02_register:55)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 22:10:07,122 INFO [root] [login_param.py(test02_register:59)] - register response = {'status': 100, 'description': '验证码不能为空!'}
+2022-04-27 22:10:07,438 INFO [root] [login_param.py(test02_register:55)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 22:10:07,522 INFO [root] [login_param.py(test02_register:59)] - register response = {'status': 100, 'description': '验证码不能为空!'}
+2022-04-27 22:10:07,859 INFO [root] [login_param.py(test02_register:55)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 22:10:07,961 INFO [root] [login_param.py(test02_register:59)] - register response = {'status': 100, 'description': '验证码不能为空!'}
+2022-04-27 22:10:08,322 INFO [root] [login_param.py(test02_register:55)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 22:10:08,444 INFO [root] [login_param.py(test02_register:59)] - register response = {'status': 100, 'description': '验证码不能为空!'}
+2022-04-27 22:12:42,841 INFO [root] [__init__.py(<module>:5)] - info
+2022-04-27 22:12:42,841 ERROR [root] [__init__.py(<module>:6)] - error
+2022-04-27 22:12:43,078 INFO [root] [login_param.py(test01_get_img_verify_code:42)] - r = 0.45049359078060913 response = <Response [200]>
+2022-04-27 22:12:43,339 INFO [root] [login_param.py(test01_get_img_verify_code:42)] - r = 58074595 response = <Response [200]>
+2022-04-27 22:12:43,525 INFO [root] [login_param.py(test01_get_img_verify_code:42)] - r =  response = <Response [404]>
+2022-04-27 22:12:43,707 INFO [root] [login_param.py(test01_get_img_verify_code:42)] - r = ncdijhem response = <Response [400]>
+2022-04-27 22:12:44,048 INFO [root] [login_param.py(test02_register:55)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 22:12:44,163 INFO [root] [login_param.py(test02_register:59)] - register response = {'status': 100, 'description': '验证码不能为空!'}
+2022-04-27 22:12:44,459 INFO [root] [login_param.py(test02_register:55)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 22:12:44,561 INFO [root] [login_param.py(test02_register:59)] - register response = {'status': 100, 'description': '验证码不能为空!'}
+2022-04-27 22:12:44,933 INFO [root] [login_param.py(test02_register:55)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 22:12:45,040 INFO [root] [login_param.py(test02_register:59)] - register response = {'status': 100, 'description': '验证码不能为空!'}
+2022-04-27 22:12:45,338 INFO [root] [login_param.py(test02_register:55)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 22:12:45,437 INFO [root] [login_param.py(test02_register:59)] - register response = {'status': 100, 'description': '验证码不能为空!'}
+2022-04-27 22:12:45,688 INFO [root] [login_param.py(test02_register:55)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 22:12:45,797 INFO [root] [login_param.py(test02_register:59)] - register response = {'status': 100, 'description': '验证码不能为空!'}
+2022-04-27 22:12:46,098 INFO [root] [login_param.py(test02_register:55)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 22:12:46,198 INFO [root] [login_param.py(test02_register:59)] - register response = {'status': 100, 'description': '验证码不能为空!'}
+2022-04-27 22:12:46,541 INFO [root] [login_param.py(test02_register:55)] - get sms code response = {'status': 200, 'description': '短信发送成功'}
+2022-04-27 22:12:46,619 INFO [root] [login_param.py(test02_register:59)] - register response = {'status': 100, 'description': '验证码不能为空!'}

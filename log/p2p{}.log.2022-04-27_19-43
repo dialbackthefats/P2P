@@ -1,0 +1,10 @@
+2022-04-27 19:43:19,530 INFO [root] [__init__.py(<module>:5)] - info
+2022-04-27 19:43:19,533 ERROR [root] [__init__.py(<module>:6)] - error
+2022-04-27 19:43:34,221 INFO [root] [__init__.py(<module>:5)] - info
+2022-04-27 19:43:34,222 ERROR [root] [__init__.py(<module>:6)] - error
+2022-04-27 19:43:37,475 INFO [root] [__init__.py(<module>:5)] - info
+2022-04-27 19:43:37,475 ERROR [root] [__init__.py(<module>:6)] - error
+2022-04-27 19:43:37,859 INFO [root] [login_param.py(test01_get_img_verify_code:41)] - r = 0.9123025563927505 response = <Response [200]>
+2022-04-27 19:43:38,099 INFO [root] [login_param.py(test01_get_img_verify_code:41)] - r = 62845972 response = <Response [200]>
+2022-04-27 19:43:38,343 INFO [root] [login_param.py(test01_get_img_verify_code:41)] - r =  response = <Response [404]>
+2022-04-27 19:43:38,600 INFO [root] [login_param.py(test01_get_img_verify_code:41)] - r = bjfdimae response = <Response [400]>
